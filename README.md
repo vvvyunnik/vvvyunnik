@@ -1,6 +1,4 @@
-### Hi there 👋
+I'm a software engineer based in Brest, Belarus
 
-## 🔭 I work at GodelTech
-
-## 📫 How to reach me: 
-[Telegram](t.me/ArgumentOutOfRange)
+### ☎️ Contact Information
+- [Telegram](t.me/ArgumentOutOfRange)
